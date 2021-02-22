@@ -1,0 +1,42 @@
+body {
+    background-image: url('fuzzy.jpg');
+    background-size: cover;
+    font-family: 'Ranchers', cursive;
+    letter-spacing: 1px;
+    color: #1e212d;
+    text-align: center;
+}
+
+
+header {
+    padding: 25px;
+    font-size: 85px;
+    color:white;
+
+}
+
+section {
+    text-align: center;
+    font-size: 30px;
+    background: rgb(250, 248, 249);
+    border-radius: 20px;
+    padding: 25px;
+    max-width: 700px;
+    max-height: 900px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.481);
+
+}
+
+footer{
+ font-style: italic;
+ font-weight: 100;
+
+}
+
+#res{
+ margin: 10px;;
+}
+
+
+.
